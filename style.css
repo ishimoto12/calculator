@@ -1,0 +1,16 @@
+td {
+  width: 60px;
+  height: 30px;
+}
+
+button {
+  width: 100%;
+  height: 100%;
+}
+
+.display-number {
+  background-color: black;
+  color: white;
+  height: 30px;
+  text-align: right;
+}
